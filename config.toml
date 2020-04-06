@@ -2,7 +2,7 @@ baseurl = "https://www.chinmaymishra.me"
 title = "Chinmay Mishra"
 
 theme = "hugo-coder"
-
+googleAnalytics = "UA-162875543-1"
 languagecode = "en"
 defaultcontentlanguage = "en"
 publishDir = "chinmaym.github.io"
