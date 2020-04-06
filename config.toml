@@ -1,4 +1,4 @@
-baseurl = "https://chinmaym.github.io"
+baseurl = "https://www.chinmaymishra.me"
 title = "Chinmay Mishra"
 
 theme = "hugo-coder"
@@ -12,8 +12,6 @@ canonifyurls = true
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Chinmay Mishra"
