@@ -67,10 +67,10 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "https://github.com/chinmaym/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
+    name = "Instagram"
+    icon = "fab fa-instagram"
     weight = 2
-    url = "https://twitter.com/chinmaym92"
+    url = "https://www.instagram.com/chinmay_mishra_/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
