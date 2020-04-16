@@ -5,7 +5,7 @@ title = "Trie Implementation in GoLang"
 description = "Trie Implementation in GoLang"
 slug = "" 
 tags = ['Trie', 'Golang', 'GO']
-categories = ['Data Structure', 'GO']
+categories = ['Data Structure']
 externalLink = ""
 series = ['Data Structure', 'GO']
 +++
