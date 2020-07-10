@@ -1,5 +1,6 @@
 ---
-title: "69_sqrt"
+title: "69 sqrt"
+slug: "Leetcode"
 date: 2020-04-13T02:44:22-07:00
 draft: false
 tags: ['Leetcode']
