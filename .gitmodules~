@@ -3,4 +3,4 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "chinmaym.github.io"]
 	path = chinmaym.github.io
-	url = https://github.com/chinmaym/chinmaym.github.io.git
+	url = git@github.com/chinmaym/chinmaym.github.io.git
