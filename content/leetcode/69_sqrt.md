@@ -6,7 +6,7 @@ draft: false
 tags: ['Leetcode']
 categories: ['Leetcode']
 ---
-[Link to the question] (https://leetcode.com/problems/sqrtx/ "Sqrt")
+[Link to the question](https://leetcode.com/problems/sqrtx/ "Sqrt")
 
 ```
 Implement int sqrt(int x).

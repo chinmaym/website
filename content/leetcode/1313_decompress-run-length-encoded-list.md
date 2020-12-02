@@ -6,7 +6,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1313
-[Link to the question] (https://leetcode.com/problems/decompress-run-length-encoded-list/ "Decompress Run-Length Encoded List")
+[Link to the question](https://leetcode.com/problems/decompress-run-length-encoded-list/ "Decompress Run-Length Encoded List")
 ```
 We are given a list nums of integers representing a list compressed with run-length encoding.
 

@@ -6,7 +6,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1281
-[Link to the question] (https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "Subtract the Product and Sum of Digits of an Integer")
+[Link to the question](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/ "Subtract the Product and Sum of Digits of an Integer")
 ```
 Given an integer number n, return the difference between the product of its digits and the sum of its digits.
 

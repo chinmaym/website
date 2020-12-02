@@ -6,7 +6,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1295
-[Link to the question] (https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ "Find Numbers with Even Number of Digits")
+[Link to the question](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ "Find Numbers with Even Number of Digits")
 ```
 Given an array nums of integers, return how many of them contain an even number of digits.
 

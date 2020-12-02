@@ -6,7 +6,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1394
-[Link to the question] (https://leetcode.com/problems/find-lucky-integer-in-an-array/ "find lucky integer in an array")
+[Link to the question](https://leetcode.com/problems/find-lucky-integer-in-an-array/ "find lucky integer in an array")
 ```
 Given an array of integers arr, a lucky integer is an integer which has a frequency in the array equal to its value.
 

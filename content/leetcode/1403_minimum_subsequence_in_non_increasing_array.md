@@ -6,7 +6,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1403
-[Link to the question] (https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/ "Minimum Subsequence in Non-Increasing Order")
+[Link to the question](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/ "Minimum Subsequence in Non-Increasing Order")
 ```
 Given the array nums, obtain a subsequence of the array whose sum of elements is strictly greater than the sum of the non included elements in such subsequence. 
 

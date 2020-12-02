@@ -6,7 +6,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1389
-[Link to the question] (https://leetcode.com/problems/create-target-array-in-the-given-order/ "create target array in the given order")
+[Link to the question](https://leetcode.com/problems/create-target-array-in-the-given-order/ "create target array in the given order")
 
 ```
 Given two arrays of integers nums and index. Your task is to create target array under the following rules:
