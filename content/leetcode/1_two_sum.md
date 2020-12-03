@@ -7,7 +7,7 @@ tags: ['Leetcode']
 categories: ['Leetcode']
 ---
 # Leetcode 1
-[Link to the question] (https://leetcode.com/problems/two-sum/ "2 Sum")
+[Link to the question](https://leetcode.com/problems/two-sum/ "2 Sum")
 ```
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 

@@ -8,7 +8,7 @@ categories: ['Leetcode']
 
 # Leetcode December Challenge Day 1
 
-[Link to the question](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/)
+[Link to the question](https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3551/ "Day 1")
 
 Solution to the question
 
